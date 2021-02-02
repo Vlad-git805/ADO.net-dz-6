@@ -10,7 +10,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-
+            Mein_menu menu = new Mein_menu();
+            menu.LoginMenu();
         }
     }
 }
